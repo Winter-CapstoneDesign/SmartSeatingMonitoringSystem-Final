@@ -1,0 +1,1123 @@
+[
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:37:56.797Z",
+    "receivedAt": "2026-01-14T14:37:56.861Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:37:56.797Z",
+    "receivedAt": "2026-01-14T14:37:56.889Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:37:59.851Z",
+    "receivedAt": "2026-01-14T14:37:59.911Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:37:59.851Z",
+    "receivedAt": "2026-01-14T14:37:59.931Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:02.907Z",
+    "receivedAt": "2026-01-14T14:38:02.971Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:38:02.907Z",
+    "receivedAt": "2026-01-14T14:38:02.991Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:05.965Z",
+    "receivedAt": "2026-01-14T14:38:06.011Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 909,
+      "seat_top_left": 821
+    },
+    "timestamp": "2026-01-14T14:38:05.965Z",
+    "receivedAt": "2026-01-14T14:38:06.058Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:09.022Z",
+    "receivedAt": "2026-01-14T14:38:09.081Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:38:09.022Z",
+    "receivedAt": "2026-01-14T14:38:09.118Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:12.080Z",
+    "receivedAt": "2026-01-14T14:38:12.121Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 907,
+      "seat_bottom_left": 805,
+      "seat_top_right": 868,
+      "seat_top_left": 794
+    },
+    "timestamp": "2026-01-14T14:38:12.080Z",
+    "receivedAt": "2026-01-14T14:38:12.176Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:15.134Z",
+    "receivedAt": "2026-01-14T14:38:15.191Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 885,
+      "seat_bottom_left": 786,
+      "seat_top_right": 658,
+      "seat_top_left": 602
+    },
+    "timestamp": "2026-01-14T14:38:15.134Z",
+    "receivedAt": "2026-01-14T14:38:15.221Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:18.193Z",
+    "receivedAt": "2026-01-14T14:38:18.241Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:38:18.193Z",
+    "receivedAt": "2026-01-14T14:38:18.288Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:21.250Z",
+    "receivedAt": "2026-01-14T14:38:21.311Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 727,
+      "seat_bottom_left": 833,
+      "seat_top_right": 900,
+      "seat_top_left": 926
+    },
+    "timestamp": "2026-01-14T14:38:21.250Z",
+    "receivedAt": "2026-01-14T14:38:21.331Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:24.304Z",
+    "receivedAt": "2026-01-14T14:38:24.371Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 913,
+      "back_top_left": 891,
+      "back_bottom_right": 916,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 812,
+      "seat_bottom_left": 887,
+      "seat_top_right": 924,
+      "seat_top_left": 950
+    },
+    "timestamp": "2026-01-14T14:38:24.304Z",
+    "receivedAt": "2026-01-14T14:38:24.391Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:27.363Z",
+    "receivedAt": "2026-01-14T14:38:27.426Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 762,
+      "seat_bottom_left": 860,
+      "seat_top_right": 856,
+      "seat_top_left": 922
+    },
+    "timestamp": "2026-01-14T14:38:27.363Z",
+    "receivedAt": "2026-01-14T14:38:27.458Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:30.418Z",
+    "receivedAt": "2026-01-14T14:38:30.481Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 836,
+      "back_top_left": 0,
+      "back_bottom_right": 822,
+      "back_bottom_left": 820,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 896,
+      "seat_top_right": 845,
+      "seat_top_left": 951
+    },
+    "timestamp": "2026-01-14T14:38:30.418Z",
+    "receivedAt": "2026-01-14T14:38:30.508Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:33.477Z",
+    "receivedAt": "2026-01-14T14:38:33.521Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 956,
+      "back_top_left": 857,
+      "back_bottom_right": 852,
+      "back_bottom_left": 921,
+      "seat_bottom_right": 20,
+      "seat_bottom_left": 889,
+      "seat_top_right": 900,
+      "seat_top_left": 964
+    },
+    "timestamp": "2026-01-14T14:38:33.477Z",
+    "receivedAt": "2026-01-14T14:38:33.568Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:36.532Z",
+    "receivedAt": "2026-01-14T14:38:36.591Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:38:36.532Z",
+    "receivedAt": "2026-01-14T14:38:36.628Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:39.590Z",
+    "receivedAt": "2026-01-14T14:38:39.631Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:38:39.590Z",
+    "receivedAt": "2026-01-14T14:38:39.668Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:42.646Z",
+    "receivedAt": "2026-01-14T14:38:42.721Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:38:42.646Z",
+    "receivedAt": "2026-01-14T14:38:42.731Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:45.705Z",
+    "receivedAt": "2026-01-14T14:38:45.771Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:38:45.705Z",
+    "receivedAt": "2026-01-14T14:38:45.848Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:48.761Z",
+    "receivedAt": "2026-01-14T14:38:48.821Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:38:48.761Z",
+    "receivedAt": "2026-01-14T14:38:48.841Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:51.819Z",
+    "receivedAt": "2026-01-14T14:38:51.881Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:38:51.819Z",
+    "receivedAt": "2026-01-14T14:38:51.909Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:54.877Z",
+    "receivedAt": "2026-01-14T14:38:54.931Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:38:54.877Z",
+    "receivedAt": "2026-01-14T14:38:54.968Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:38:57.932Z",
+    "receivedAt": "2026-01-14T14:38:57.991Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:38:57.932Z",
+    "receivedAt": "2026-01-14T14:38:58.028Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:00.991Z",
+    "receivedAt": "2026-01-14T14:39:01.031Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:00.991Z",
+    "receivedAt": "2026-01-14T14:39:01.078Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:04.049Z",
+    "receivedAt": "2026-01-14T14:39:04.111Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 40,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:04.049Z",
+    "receivedAt": "2026-01-14T14:39:04.138Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:07.106Z",
+    "receivedAt": "2026-01-14T14:39:07.141Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:07.106Z",
+    "receivedAt": "2026-01-14T14:39:07.188Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:10.161Z",
+    "receivedAt": "2026-01-14T14:39:10.229Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:10.161Z",
+    "receivedAt": "2026-01-14T14:39:10.249Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:13.217Z",
+    "receivedAt": "2026-01-14T14:39:13.281Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:13.217Z",
+    "receivedAt": "2026-01-14T14:39:13.308Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:16.271Z",
+    "receivedAt": "2026-01-14T14:39:16.339Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:16.271Z",
+    "receivedAt": "2026-01-14T14:39:16.351Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:19.329Z",
+    "receivedAt": "2026-01-14T14:39:19.391Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:19.329Z",
+    "receivedAt": "2026-01-14T14:39:19.419Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:22.383Z",
+    "receivedAt": "2026-01-14T14:39:22.441Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:22.383Z",
+    "receivedAt": "2026-01-14T14:39:22.478Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:25.443Z",
+    "receivedAt": "2026-01-14T14:39:25.501Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:25.443Z",
+    "receivedAt": "2026-01-14T14:39:25.521Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:28.499Z",
+    "receivedAt": "2026-01-14T14:39:28.551Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:28.499Z",
+    "receivedAt": "2026-01-14T14:39:28.588Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:31.562Z",
+    "receivedAt": "2026-01-14T14:39:31.621Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:31.562Z",
+    "receivedAt": "2026-01-14T14:39:31.641Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:34.616Z",
+    "receivedAt": "2026-01-14T14:39:34.651Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:34.616Z",
+    "receivedAt": "2026-01-14T14:39:34.698Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:37.678Z",
+    "receivedAt": "2026-01-14T14:39:37.731Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:37.678Z",
+    "receivedAt": "2026-01-14T14:39:37.768Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:40.734Z",
+    "receivedAt": "2026-01-14T14:39:40.771Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:40.734Z",
+    "receivedAt": "2026-01-14T14:39:40.818Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:43.795Z",
+    "receivedAt": "2026-01-14T14:39:43.851Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:43.795Z",
+    "receivedAt": "2026-01-14T14:39:43.888Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:46.849Z",
+    "receivedAt": "2026-01-14T14:39:46.911Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:46.849Z",
+    "receivedAt": "2026-01-14T14:39:46.958Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:49.910Z",
+    "receivedAt": "2026-01-14T14:39:49.991Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:49.910Z",
+    "receivedAt": "2026-01-14T14:39:50.396Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:52.965Z",
+    "receivedAt": "2026-01-14T14:39:53.039Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:52.965Z",
+    "receivedAt": "2026-01-14T14:39:53.051Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:56.023Z",
+    "receivedAt": "2026-01-14T14:39:56.071Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:56.023Z",
+    "receivedAt": "2026-01-14T14:39:56.108Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:39:59.079Z",
+    "receivedAt": "2026-01-14T14:39:59.119Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:39:59.079Z",
+    "receivedAt": "2026-01-14T14:39:59.168Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:40:02.139Z",
+    "receivedAt": "2026-01-14T14:40:02.201Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:02.139Z",
+    "receivedAt": "2026-01-14T14:40:02.230Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:40:05.195Z",
+    "receivedAt": "2026-01-14T14:40:05.241Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:05.195Z",
+    "receivedAt": "2026-01-14T14:40:05.278Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:40:08.253Z",
+    "receivedAt": "2026-01-14T14:40:08.311Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:08.253Z",
+    "receivedAt": "2026-01-14T14:40:08.331Z"
+  },
+  {
+    "isSeated": true,
+    "detectedAt": "2026-01-14T14:40:11.308Z",
+    "receivedAt": "2026-01-14T14:40:11.379Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:11.308Z",
+    "receivedAt": "2026-01-14T14:40:11.399Z"
+  },
+  {
+    "isSeated": false,
+    "detectedAt": "2026-01-14T14:40:14.365Z",
+    "receivedAt": "2026-01-14T14:40:14.431Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:14.365Z",
+    "receivedAt": "2026-01-14T14:40:14.451Z"
+  },
+  {
+    "isSeated": false,
+    "detectedAt": "2026-01-14T14:40:17.419Z",
+    "receivedAt": "2026-01-14T14:40:17.481Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:17.419Z",
+    "receivedAt": "2026-01-14T14:40:17.516Z"
+  },
+  {
+    "isSeated": false,
+    "detectedAt": "2026-01-14T14:40:20.478Z",
+    "receivedAt": "2026-01-14T14:40:20.541Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:20.478Z",
+    "receivedAt": "2026-01-14T14:40:20.568Z"
+  },
+  {
+    "isSeated": false,
+    "detectedAt": "2026-01-14T14:40:23.532Z",
+    "receivedAt": "2026-01-14T14:40:23.731Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:23.532Z",
+    "receivedAt": "2026-01-14T14:40:23.741Z"
+  },
+  {
+    "isSeated": false,
+    "detectedAt": "2026-01-14T14:40:26.591Z",
+    "receivedAt": "2026-01-14T14:40:26.651Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:26.591Z",
+    "receivedAt": "2026-01-14T14:40:26.678Z"
+  },
+  {
+    "isSeated": false,
+    "detectedAt": "2026-01-14T14:40:29.648Z",
+    "receivedAt": "2026-01-14T14:40:29.681Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:29.648Z",
+    "receivedAt": "2026-01-14T14:40:29.728Z"
+  },
+  {
+    "isSeated": false,
+    "detectedAt": "2026-01-14T14:40:32.708Z",
+    "receivedAt": "2026-01-14T14:40:32.771Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:32.708Z",
+    "receivedAt": "2026-01-14T14:40:32.791Z"
+  },
+  {
+    "isSeated": false,
+    "detectedAt": "2026-01-14T14:40:35.764Z",
+    "receivedAt": "2026-01-14T14:40:35.831Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:35.764Z",
+    "receivedAt": "2026-01-14T14:40:35.858Z"
+  },
+  {
+    "isSeated": false,
+    "detectedAt": "2026-01-14T14:40:38.826Z",
+    "receivedAt": "2026-01-14T14:40:38.891Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:38.826Z",
+    "receivedAt": "2026-01-14T14:40:38.918Z"
+  },
+  {
+    "isSeated": false,
+    "detectedAt": "2026-01-14T14:40:41.884Z",
+    "receivedAt": "2026-01-14T14:40:41.951Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:41.884Z",
+    "receivedAt": "2026-01-14T14:40:41.979Z"
+  },
+  {
+    "isSeated": false,
+    "detectedAt": "2026-01-14T14:40:44.940Z",
+    "receivedAt": "2026-01-14T14:40:45.001Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:44.940Z",
+    "receivedAt": "2026-01-14T14:40:45.021Z"
+  },
+  {
+    "isSeated": false,
+    "detectedAt": "2026-01-14T14:40:47.998Z",
+    "receivedAt": "2026-01-14T14:40:48.041Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:47.998Z",
+    "receivedAt": "2026-01-14T14:40:48.086Z"
+  },
+  {
+    "isSeated": false,
+    "detectedAt": "2026-01-14T14:40:51.052Z",
+    "receivedAt": "2026-01-14T14:40:51.111Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:51.052Z",
+    "receivedAt": "2026-01-14T14:40:51.148Z"
+  },
+  {
+    "isSeated": false,
+    "detectedAt": "2026-01-14T14:40:54.111Z",
+    "receivedAt": "2026-01-14T14:40:54.161Z"
+  },
+  {
+    "sensors": {
+      "back_top_right": 0,
+      "back_top_left": 0,
+      "back_bottom_right": 0,
+      "back_bottom_left": 0,
+      "seat_bottom_right": 0,
+      "seat_bottom_left": 0,
+      "seat_top_right": 0,
+      "seat_top_left": 0
+    },
+    "timestamp": "2026-01-14T14:40:54.111Z",
+    "receivedAt": "2026-01-14T14:40:54.198Z"
+  }
+]
